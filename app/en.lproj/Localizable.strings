@@ -210,17 +210,8 @@
 /* General prefs */
 "Hide menu bar icon" = "Hide menu bar icon";
 
-/* General prefs - this can spill to the next line */
-"When dragging windows between desktops on the" = "When dragging windows between desktops on the";
-
-/* General prefs - second line if needed */
-"grid, place windows" = "grid, place windows";
-
 /* General prefs */
-"where they are dropped" = "where they are dropped";
-
-/* General prefs */
-"where they were previously" = "where they were previously";
+"Automatically check for updates" = "Automatically check for updates";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Backgrounds in the overview grid";
