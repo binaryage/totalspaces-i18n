@@ -22,6 +22,8 @@ You may want to read [TotalSpaces opened for localization](http://blog.binaryage
 
 ## The Workflow
 
+## Pre-release info warning: The scripts mentioned here are in development, they will be available soon.
+
 ### Initial step
 
 1. [fork this project](http://help.github.com/fork-a-repo) on GitHub
@@ -59,8 +61,8 @@ Every contributor in [http://github.com/binaryage/totalspaces-i18n/contributors]
 
 **To be clear. Please note that:**
 
-1. It is not guarantee that I will accept changes in your fork
-2. You are contributing your work under [MIT style license](totalspaces-i18n/raw/master/license.txt)
+1. It is not guaranteed that I will accept changes in your fork
+2. You are contributing your work under [MIT style license](https://raw.github.com/binaryage/totalspaces-i18n/master/license.txt)
 3. You may want to explore [Network Graph](http://github.com/binaryage/totalspaces-i18n/network) to see if someone has been already working on your language
 
 #### License: [MIT-Style](https://raw.github.com/binaryage/totalspaces-i18n/master/license.txt)
