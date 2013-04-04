@@ -214,6 +214,9 @@
 "Automatically check for updates" = "Güncellemeleri otomatik kontrol et";
 
 /* General prefs */
+"Zoom to overview grid animation (experimental)" = "Zoom to overview grid animation (experimental)";
+
+/* General prefs */
 "Desktop backgrounds in the overview grid" = "Özet ızgarasında arkaplanlar";
 
 /* General prefs */

@@ -214,6 +214,9 @@
 "Automatically check for updates" = "Automatically check for updates";
 
 /* General prefs */
+"Zoom to overview grid animation (experimental)" = "Zoom to overview grid animation (experimental)";
+
+/* General prefs */
 "Desktop backgrounds in the overview grid" = "Backgrounds in the overview grid";
 
 /* General prefs */
