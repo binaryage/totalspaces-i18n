@@ -8,10 +8,8 @@
 
 You can tweak resource files and add your preferred language.
 
-The idea is to install TotalSpaces and then symlink its `Resources` folder to the copy of this repository where you can edit it.
+The idea is to install TotalSpaces and then symlink its langname.lproj folder to the copy in this repository where you can edit it.
 You should push your changes back to GitHub and I will then incorporate your work into [next TotalSpaces release](http://totalspaces.binaryage.com/changes).
-
-You may want to read [TotalSpaces opened for localization](http://blog.binaryage.com/totalspaces-localization/) blog post.
 
 ## Where to start?
 
@@ -22,19 +20,17 @@ You may want to read [TotalSpaces opened for localization](http://blog.binaryage
 
 ## The Workflow
 
-## Pre-release info warning: The scripts mentioned here are in development, they will be available soon.
-
 ### Initial step
 
 1. [fork this project](http://help.github.com/fork-a-repo) on GitHub
 2. [clone your fork](http://help.github.com/remotes) (let's assume you have it in `~/totalspaces-i18n`)
 3. make sure you have [installed latest TotalSpaces](http://totalspaces.binaryage.com/changes) version
-4. `cd ~/totalspaces-i18n` and run `./bin/dev.sh`
+4. `cd ~/totalspaces-i18n` and run `./bin/dev.sh langname` - where langname should be the two character language code from [ISO 639-1](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 ### Development
 
 1. edit files
-2. validate your changes with `rake validate` (before first run execute `sudo gem install cmess` to install supporting library)
+2. validate your changes with `rake validate` (before first run execute `sudo gem install cmess` to install supporting library - you may also need to gem install iconv)
 3. use `./bin/restart.sh` to restart TotalSpaces to reflect your changes
 4. commit if needed - you can `./bin/commit.sh`
 5. goto 1
@@ -42,7 +38,7 @@ You may want to read [TotalSpaces opened for localization](http://blog.binaryage
 ### Final step
 
 1. [push to github](http://help.github.com/remotes) and send a [pull request](http://help.github.com/pull-requests)
-2. (optional) run `./bin/undev.sh` to return to unaltered TotalFinder state (this won't delete your files, it will [just unlink](totalspaces-i18n/blob/master/undev.sh) sym-linked folder)
+2. (optional) run `./bin/undev.sh langname` to return to unaltered TotalSpaces state (this won't delete your files, it will [just unlink](totalspaces-i18n/blob/master/undev.sh) sym-linked folder)
 
 ## Questions?
 
