@@ -343,7 +343,10 @@
 "Show overview grid" = "Show overview grid";
 
 /* Hotcorners prefs */
-"Exposé (when in grid)" = "Exposé (when in grid)";
+"Exposé (when in grid)" = "Toggle exposé (in grid)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Overview grid with exposé";
 
 /* Advanced prefs */
 "Full screen apps in the grid" = "Full screen apps in the grid";
