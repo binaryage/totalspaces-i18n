@@ -345,6 +345,9 @@
 /* Hotcorners prefs */
 "Exposé (when in grid)" = "Exposé (ızgaradayken)";
 
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Overview grid with exposé";
+
 /* Advanced prefs */
 "Full screen apps in the grid" = "Izgarada tam ekran uygulamalar";
 
