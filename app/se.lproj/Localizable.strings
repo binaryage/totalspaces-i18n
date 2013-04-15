@@ -345,6 +345,9 @@
 /* Hotcorners prefs */
 "Exposé (when in grid)" = "Exposé (i rutnät)";
 
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Översiktsrutnät med exposé";
+
 /* Advanced prefs */
 "Full screen apps in the grid" = "Bredbildsprogram i rutnätet";
 
