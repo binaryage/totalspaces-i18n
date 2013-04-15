@@ -1,0 +1,364 @@
+/* Registration dialog */
+"Registration" = "Registrering";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Skriv in dina licensuppgifter som du hittar i e-postmeddelandet vi skickat dig";
+
+/* Registration dialog */
+"Register" = "Registrera";
+
+/* Registration dialog */
+"Buy TotalSpaces Now" = "Köp TotalSpaces nu";
+
+/* Registration dialog */
+"Invalid license code" = "Ogiltig licenskod";
+
+/* Registration dialog */
+"Please go back and try again." = "Försök på nytt.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Besök BinaryAge nätbutik för att köpa licens för TotalSpaces.";
+
+/* Registration dialog */
+"Back" = "Tillbaka";
+
+/* Registration dialog */
+"Thanks for registering!" = "Tack för att du registrerat!";
+
+/* Registration dialog */
+"This TotalSpaces copy is licensed to:" = "Denna kopia av TotalSpaces är licensierad till:";
+
+/* Registration dialog */
+"Change License" = "Ändra licens";
+
+/* Registration dialog */
+"Close" = "Stäng";
+
+/* Registration dialog */
+"TotalSpaces Registration" = "Registrera TotalSpaces";
+
+/* Registration dialog */
+"Licensed to" = "Licensierad till";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces!" = "Tack för att du använder TotalSpaces!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces" = "Försöksperioden har löpt ut - var vänlig köp TotalSpaces";
+
+/* Registration dialog */
+"days left" = "dagar kvar";
+
+/* Registration dialog */
+"day left" = "dag kvar";
+
+/* Registration dialog */
+"Buy now!" = "Köp nu!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (inte i rutnät)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Skrivbord)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Bredbild)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Bredbild)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "Svep med 3 fingrar";
+
+/* No comment provided by engineer. */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "Om (Oregistrerad)";
+
+/* add/remove desktops button */
+"Add desktops" = "Lägg till skrivbord";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Avancerat";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Program";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Kolla updateringar";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Rotation";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Instrumentpanel";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Allmänt";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Hotcorners";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Snabbtangenter";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Layout";
+
+/* 3 finger swipe dialog
+   hotkey already in use dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Översiktsrutnät";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Vi vill uppmärksamma dig på att vi rekommenderar att du deaktiverar Svep med 3 fingrar i avdelningen för Peka & klicka i preferenserna för styrplattan (i Systempreferenser), annars kan mekanismerna aktiveras simultant";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Använd en annan kombination, alternativt kontrollera i Tangentbordspreferenser att kombinationen inte redan är i användning.";
+
+/* Preferences window */
+"Preferences" = "Preferenser";
+
+/* No comment provided by engineer. */
+"Quit" = "Avsluta";
+
+/* add/remove desktops button */
+"Remove desktops" = "Avlägsna skrivbord";
+
+/* unshow status bar dialog */
+"Status item removal" = "Borttagning av statuspost";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Denna tangentkombination kan inte tilldelas";
+
+/* hotkeys */
+"That key combination is already in use" = "Denna tangentkombination är redan i användning";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Systemet avvisade tilldelningen trots att vi insisterade";
+
+/* unshow status bar dialog */
+"To see the status bar item again, you can double-click the application in your Applications folder" = "För att kunna se statusfältposten på nytt kan du dubbelklicka ifrågavarande program i  Programmappen";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Övergångar";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Försöksperioden har löpt ut";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Använd i alla fall";
+
+/* layout desktop status label single */
+"You have %ld desktop" = "Du har %ld skrivbord";
+
+/* layout desktop status label plural */
+"You have %ld desktops" = "Du har %ld skrivbord";
+
+/* layout desktop requirements label single */
+"You need %ld desktop" = "Du behöver %ld skrivbord";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops" = "Du behöver %ld skrivbord";
+
+/* Hotkeys prefs */
+"Left" = "Vänser";
+
+/* Hotkeys prefs */
+"Right" = "Höger";
+
+/* Hotkeys prefs */
+"Up" = "Upp";
+
+/* Hotkeys prefs */
+"Down" = "ner";
+
+/* Hotkeys prefs */
+"Hotkey" = "Snabbtangent";
+
+/* Hotkeys prefs */
+"Mouse" = "Mus";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Omedelbar exposé";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Använd mellanslagstangenten för att växla till exposé när du använder översiktsrutnätet";
+
+/* Hotkeys prefs */
+"Choose button" = "Välj knapp";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "3e/mittersta knappen";
+
+/* Hotkeys prefs */
+"4th button" = "4e knappen";
+
+/* Hotkeys prefs */
+"5th button" = "5e knappen";
+
+/* General prefs */
+"Start TotalSpaces at Login" = "Starta TotalSpaces vid inloggning";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Visa anmälnigsgsgrafik vid byte av skrivbord ";
+
+/* General prefs */
+"Hide menu bar icon" = "Göm ikon för menyfält";
+
+/* General prefs */
+"Automatically check for updates" = "Kolla updateringar automatiskt";
+
+/* General prefs */
+"Zoom to overview grid animation (experimental)" = "Zooma för översikt av rutnätsanimation (experimentell)";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Bakgrunder i översiktsrutnätet";
+
+/* General prefs */
+"Hi res" = "Högresolution";
+
+/* General prefs */
+"Lo res" = "Lågresolution";
+
+/* General prefs */
+"None (fastest)" = "Ingen (snabbast)";
+
+/* General prefs */
+"Show fullscreen apps under the overview grid" = "Visa bredbildsprogram under översiktsrutnätet";
+
+/* Circulation prefs */
+"Enable circulation" = "Aktivera rotation";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Rotera vertikalt (anslut översta raden till understa raden)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Höger ända av rad ansluter till vänster ända";
+
+/* Circulation prefs */
+"Next row" = "Följande rad";
+
+/* Circulation prefs */
+"Same row" = "Samma rad";
+
+/* App binding prefs */
+"Application" = "Program";
+
+/* App binding prefs */
+"Desktop" = "Skribord";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Använd denna panel för att tillskriva program till specifika skrivbord";
+
+/* Transitions prefs */
+"Use transitions" = "Använd övergångar";
+
+/* Transitions prefs */
+"Animation" = "Animation";
+
+/* Transitions prefs */
+"Slide" = "Glid";
+
+/* Transitions prefs */
+"Cube" = "Kub";
+
+/* Transitions prefs */
+"Swap" = "Byt";
+
+/* Transitions prefs */
+"Flip" = "Vänd";
+
+/* Transitions prefs */
+"Reveal" = "Uppenbara";
+
+/* Transitions prefs */
+"Fade" = "Tona bort";
+
+/* Transitions prefs */
+"Speed" = "Hastig";
+
+/* Transitions prefs */
+"Slow" = "Långsam";
+
+/* Transitions prefs */
+"Fast" = "Snabb";
+
+/* Transitions prefs */
+"Swipe to change space" = "Svep för att byta rum";
+
+/* Transitions prefs */
+"3 fingers" = "3 fingrar";
+
+/* Transitions prefs */
+"4 fingers" = "4 fingrar";
+
+/* Transitions prefs */
+"5 fingers" = "5 fingrar";
+
+/* Transitions prefs */
+"Invert swipe direction" = "byt riktning för svep";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Byt rum genom att föra musen till skärmens kant";
+
+/* Transitions prefs */
+"With key" = "Med tangent";
+
+/* Layout prefs */
+"Grid" = "Rutnät";
+
+/* Layout prefs */
+"Full screen apps" = "Bredbildsprogram";
+
+/* Layout prefs - naming popup */
+"Name" = "Namn";
+
+/* Layout prefs - naming popup */
+"Done" = "Klar";
+
+/* Layout prefs - hint first line */
+"Control-click to set" = "Kontrollklicka för att aktivera";
+
+/* Layout prefs - hint second line */
+"space name & hotkey" = "namn på rum & snabbtangent";
+
+/* Layout prefs */
+"For this grid" = "För detta rutnät";
+
+/* Layout prefs */
+"Navigate right to additional full screen apps" = "Navigera åt höger till ytterligare bredbildsprogram";
+
+/* Layout prefs */
+"Navigate left to dashboard" = "Navigera åt vänster till instrumentpanelen";
+
+/* Layout prefs */
+"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Visa instrumentpanelen som ett rum måste aktiveras i Mission Control preferenserna)";
+
+/* Hotcorners prefs */
+"Show overview grid" = "Visa översiktsrutnät";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Exposé (i rutnät)";
+
+/* Advanced prefs */
+"Full screen apps in the grid" = "Bredbildsprogram i rutnätet";
+
+/* Advanced prefs - explaination line 1 */
+"This setting allows you to use the highest numbered positions in" = "Denna inställning möjliggör användning av högsta antal positioner";
+
+/* Advanced prefs - explanation line 2 */
+"your grid for full screen apps" = "ditt rutnät för bredbildsprogram";
+
+/* Advanced prefs */
+"Make the grid from" = "Gör rutnät av";
+
+/* Advanced prefs */
+"desktops, and" = "desktops, and";
+
+/* Advanced prefs */
+"full screen apps" = "bredbildsprogram";
