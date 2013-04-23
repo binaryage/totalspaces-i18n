@@ -169,7 +169,7 @@
 "Left" = "Links";
 
 /* Hotkeys prefs */
-"Right" = "rechts";
+"Right" = "Rechts";
 
 /* Hotkeys prefs */
 "Up" = "Nach oben";
@@ -214,7 +214,7 @@
 "Automatically check for updates" = "Automatisch nach Aktualisierungen suchen";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "In das Übersichtsraster reinzoomen-Animation(Experimentell)";
+"Zoom to overview grid animation (experimental)" = "In das Übersichtsraster reinzoomen-Animation (Experimentell)";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Schreibtisch-Hintergrund im Übersichtsraster";
@@ -346,7 +346,7 @@
 "Exposé (when in grid)" = "Expose anzeigen";
 
 /* Hotcorners prefs */
-"Overview grid with exposé" = "Übersichtsraster mit Eexposé";
+"Overview grid with exposé" = "Übersichtsraster mit Exposé";
 
 /* Advanced prefs */
 "Full screen apps in the grid" = "Vollbild-Anwendungen im Übersichtsraster anzeigen";
