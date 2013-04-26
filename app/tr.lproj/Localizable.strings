@@ -46,11 +46,11 @@
 /* Registration dialog */
 "Trial period finished - Please buy TotalSpaces" = "Deneme süresi sona erdi - Lütfen TotalSpaces'i satın alın";
 
-/* Registration dialog */
-"days left" = "gün kaldı";
+/* Registration dialog /*
+"Trial version" = "Trial version";
 
-/* Registration dialog */
-"day left" = "gün kaldı";
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d gün kaldı";
 
 /* Registration dialog */
 "Buy now!" = "Şimdi satın alın!";

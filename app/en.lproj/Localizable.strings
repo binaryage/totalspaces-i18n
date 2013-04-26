@@ -46,11 +46,14 @@
 /* Registration dialog */
 "Trial period finished - Please buy TotalSpaces" = "Trial period finished - Please buy TotalSpaces";
 
-/* Registration dialog */
-"days left" = "days left";
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d days left";
 
 /* Registration dialog */
-"day left" = "day left";
+"%d days left##{one}" = "%d day left";
 
 /* Registration dialog */
 "Buy now!" = "Buy now!";
