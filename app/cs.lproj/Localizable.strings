@@ -46,11 +46,17 @@
 /* Registration dialog */
 "Trial period finished - Please buy TotalSpaces" = "Zkušební doba vypršela - prosím zakupte si TotalSpaces";
 
-/* Registration dialog */
-"days left" = "(zbývá dnů)";
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d zbývá dnů";
 
 /* Registration dialog */
-"day left" = "(zbývá den)";
+"%d days left##{few}" = "%d zbývá dny";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d zbývá den";
 
 /* Registration dialog */
 "Buy now!" = "Koupit nyní!";
@@ -154,16 +160,22 @@
 "Use anyway" = "Použít i přez varování";
 
 /* layout desktop status label single */
-"You have %ld desktop" = "Máte %ld plochu";
+"You have %ld desktops##{one}" = "Máte %ld plochu";
+
+/* layout desktop status label single */
+"You have %ld desktops##{few}" = "Máte %ld ploch";
 
 /* layout desktop status label plural */
-"You have %ld desktops" = "Máte %ld ploch";
+"You have %ld desktops##{other}" = "Máte %ld ploch";
 
 /* layout desktop requirements label single */
-"You need %ld desktop" = "Potřebujete %ld plochu";
+"You need %ld desktops##{one}" = "Potřebujete %ld plochu";
 
 /* layout desktop requirements label plural */
-"You need %ld desktops" = "Potřebujete %ld ploch";
+"You need %ld desktops##{few}" = "Potřebujete %ld ploch";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Potřebujete %ld ploch";
 
 /* Hotkeys prefs */
 "Left" = "Vlevo";

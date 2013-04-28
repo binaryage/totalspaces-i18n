@@ -154,16 +154,16 @@
 "Use anyway" = "Yine de kullan";
 
 /* layout desktop status label single */
-"You have %ld desktop" = "%ld masaüstünüz var";
+"You have %ld desktops##{one}" = "%ld masaüstünüz var";
 
 /* layout desktop status label plural */
-"You have %ld desktops" = "%ld masaüstünüz var";
+"You have %ld desktops##{other}" = "%ld masaüstünüz var";
 
 /* layout desktop requirements label single */
-"You need %ld desktop" = "%ld masaüstüne ihtiyacınız var";
+"You need %ld desktops##{one}" = "%ld masaüstüne ihtiyacınız var";
 
 /* layout desktop requirements label plural */
-"You need %ld desktops" = "%ld masaüstüne ihtiyacınız var";
+"You need %ld desktops##{other}" = "%ld masaüstüne ihtiyacınız var";
 
 /* Hotkeys prefs */
 "Left" = "Sol";

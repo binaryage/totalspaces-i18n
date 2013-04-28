@@ -157,16 +157,16 @@
 "Use anyway" = "Trotzdem verwenden";
 
 /* layout desktop status label single */
-"You have %ld desktop" = "Sie haben %ld Schreibtische";
+"You have %ld desktops##{one}" = "Sie haben %ld Schreibtische";
 
 /* layout desktop status label plural */
-"You have %ld desktops" = "Sie haben %ld Schreibtische";
+"You have %ld desktops##{other}" = "Sie haben %ld Schreibtische";
 
 /* layout desktop requirements label single */
-"You need %ld desktop" = "Sie benötihrn %ld Schreibtische";
+"You need %ld desktops##{one}" = "Sie benötihrn %ld Schreibtische";
 
 /* layout desktop requirements label plural */
-"You need %ld desktops" = "Sie benötihrn %ld Schreibtische";
+"You need %ld desktops##{other}" = "Sie benötihrn %ld Schreibtische";
 
 /* Hotkeys prefs */
 "Left" = "Links";

@@ -157,16 +157,16 @@
 "Use anyway" = "Use anyway";
 
 /* layout desktop status label single */
-"You have %ld desktop" = "You have %ld desktop";
+"You have %ld desktops##{one}" = "You have %ld desktop";
 
 /* layout desktop status label plural */
-"You have %ld desktops" = "You have %ld desktops";
+"You have %ld desktops##{other}" = "You have %ld desktops";
 
 /* layout desktop requirements label single */
-"You need %ld desktop" = "You need %ld desktop";
+"You need %ld desktops##{one}" = "You need %ld desktop";
 
 /* layout desktop requirements label plural */
-"You need %ld desktops" = "You need %ld desktops";
+"You need %ld desktops##{other}" = "You need %ld desktops";
 
 /* Hotkeys prefs */
 "Left" = "Left";
