@@ -50,13 +50,13 @@
 "Trial version" = "Trial version";
 
 /* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
-"%d days left##{other}" = "%d zbývá dnů";
+"%d days left##{other}" = "zbývá %d dnů";
 
 /* Registration dialog */
-"%d days left##{few}" = "%d zbývá dny";
+"%d days left##{few}" = "zbývají %d dny";
 
 /* Registration dialog */
-"%d days left##{one}" = "%d zbývá den";
+"%d days left##{one}" = "zbývá %d den";
 
 /* Registration dialog */
 "Buy now!" = "Koupit nyní!";
@@ -68,10 +68,10 @@
 "%ld (Desktop)" = "%ld (Plocha)";
 
 /* default fullscreen desktop name when fullscreen is in the grid */
-"%ld (Fullscreen)" = "%ld (Plná obrazovka)";
+"%ld (Fullscreen)" = "%ld (Celá obrazovka)";
 
 /* default fullscreen desktop name when fullscreen is not in the grid */
-"(Fullscreen)" = "(Plná obrazovka)";
+"(Fullscreen)" = "(Celá obrazovka)";
 
 /* 3 finger swipe dialog */
 "3 finger swiping" = "přejetí třemi prsty";
@@ -241,7 +241,7 @@
 "None (fastest)" = "Žádné (nejrychlejší)";
 
 /* General prefs */
-"Show fullscreen apps under the overview grid" = "V mřížce s přehledem zobrazovat i aplikace v režimu plné obrazovky";
+"Show fullscreen apps under the overview grid" = "V mřížce s přehledem zobrazovat i aplikace v režimu celé obrazovky";
 
 /* Circulation prefs */
 "Enable circulation" = "Zapnout kruhové napojení";
@@ -325,7 +325,7 @@
 "Grid" = "Mřížka";
 
 /* Layout prefs */
-"Full screen apps" = "Aplikace v režimu plné obrazovky";
+"Full screen apps" = "Aplikace v režimu celé obrazovky";
 
 /* Layout prefs - naming popup */
 "Name" = "Jméno";
@@ -343,7 +343,7 @@
 "For this grid" = "Pro tuto mřižku";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Navigujte doprava pro přídavné aplikace v režimu plné obrazovky";
+"Navigate right to additional full screen apps" = "Navigujte doprava pro přídavné aplikace v režimu celé obrazovky";
 
 /* Layout prefs */
 "Navigate left to dashboard" = "Navigujte doleva pro přechod na nástěnku";
@@ -361,13 +361,13 @@
 "Overview grid with exposé" = "Mřížka s přehledem s exposé";
 
 /* Advanced prefs */
-"Full screen apps in the grid" = "Mřížka a aplikace v režimu plné obrazovky";
+"Full screen apps in the grid" = "Mřížka a aplikace v režimu celé obrazovky";
 
 /* Advanced prefs - explaination line 1 */
 "This setting allows you to use the highest numbered positions in" = "Toto nastavení umožňuje použít nejvyšší pozici";
 
 /* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "v mřížce pro aplikace v režimu plné obrazovky";
+"your grid for full screen apps" = "v mřížce pro aplikace v režimu celé obrazovky";
 
 /* Advanced prefs */
 "Make the grid from" = "Vytvořit mřížku z";
@@ -376,6 +376,6 @@
 "desktops, and" = "ploch, a";
 
 /* Advanced prefs */
-"full screen apps" = "aplikací v režimu plné obrazovky";
+"full screen apps" = "aplikací v režimu celé obrazovky";
 
 
