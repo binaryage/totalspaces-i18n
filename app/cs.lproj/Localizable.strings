@@ -162,7 +162,7 @@
 /* layout desktop status label single */
 "You have %ld desktops##{one}" = "Máte %ld plochu";
 
-/* layout desktop status label single */
+/* layout desktop status label few */
 "You have %ld desktops##{few}" = "Máte %ld ploch";
 
 /* layout desktop status label plural */
@@ -171,7 +171,7 @@
 /* layout desktop requirements label single */
 "You need %ld desktops##{one}" = "Potřebujete %ld plochu";
 
-/* layout desktop requirements label plural */
+/* layout desktop requirements label few */
 "You need %ld desktops##{few}" = "Potřebujete %ld ploch";
 
 /* layout desktop requirements label plural */
