@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "ユーザ登録";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "ライセンス情報が書かれたメールに従って入力してください：";
+
+/* Registration dialog */
+"Register" = "登録";
+
+/* Registration dialog */
+"Buy TotalSpaces Now" = "TotalSpaces を購入";
+
+/* Registration dialog */
+"Invalid license code" = "無効なライセンスコード";
+
+/* Registration dialog */
+"Please go back and try again." = "もう一度やり直してください。";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "TotalSpaces のライセンスを購入するには、BinaryAge のオンラインストアをご利用ください。";
+
+/* Registration dialog */
+"Back" = "戻る";
+
+/* Registration dialog */
+"Thanks for registering!" = "登録ありがとうございます！";
+
+/* Registration dialog */
+"This TotalSpaces copy is licensed to:" = "登録者名：";
+
+/* Registration dialog */
+"Change License" = "ライセンスを変更する";
+
+/* Registration dialog */
+"Close" = "閉じる";
+
+/* Registration dialog */
+"TotalSpaces Registration" = "TotalSpaces ユーザ登録";
+
+/* Registration dialog */
+"Licensed to" = "登録者名：";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces!" = "ご利用ありがとうございます！";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces" = "試用期間が終わりました。TotalSpaces をご購入ください";
+
+/* Registration dialog /*
+"Trial version" = "試用版";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "残り %d 日";
+
+/* Registration dialog */
+"%d days left##{one}" = "残り %d 日";
+
+/* Registration dialog */
+"Buy now!" = "今すぐ購入";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ （グリッド外）";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld （デスクトップ）";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld （フルスクリーン）";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "（フルスクリーン）";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "3 本指のスワイプ";
+
+/* No comment provided by engineer. */
+"About" = "TotalSpaces について";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "TotalSpaces について（未登録）";
+
+/* add/remove desktops button */
+"Add desktops" = "デスクトップを追加";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "詳細";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Apps";
+
+/* No comment provided by engineer. */
+"Check for updates" = "アップデートを確認";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "循環";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "一般";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "ホットコーナー";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "キー操作";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "レイアウト";
+
+/* 3 finger swipe dialog
+   hotkey already in use dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Overview グリッド";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "トラックパッドの環境設定（システム環境設定内）の「ポイントとクリック」で「3 本指のドラッグ」をオフにしてください。";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "同じキーの組み合わせが既に使われています。違うキーを選んでください。";
+
+/* Preferences window */
+"Preferences" = "環境設定";
+
+/* No comment provided by engineer. */
+"Quit" = "TotalSpaces を終了";
+
+/* add/remove desktops button */
+"Remove desktops" = "デスクトップを削除";
+
+/* unshow status bar dialog */
+"Status item removal" = "メニューバーから削除";
+
+/* hotkeys */
+"That key combination could not be assigned" = "このキー組み合わせは使用できません。";
+
+/* hotkeys */
+"That key combination is already in use" = "このキー組み合わせは既に使われています。";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "システムによりホットキーの登録が拒否されました。";
+
+/* unshow status bar dialog */
+"To see the status bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces をダブルクリックしてください。";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "トランジション";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "試用期間終了";
+
+/* hotkey already in use dialog */
+"Use anyway" = "強行";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "現在 %ld 個のデスクトップがあります";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "現在 %ld 個のデスクトップがあります";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "%ld 個のデスクトップが必要です";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "%ld 個のデスクトップが必要です";
+
+/* Hotkeys prefs */
+"Left" = "左";
+
+/* Hotkeys prefs */
+"Right" = "右";
+
+/* Hotkeys prefs */
+"Up" = "上";
+
+/* Hotkeys prefs */
+"Down" = "下";
+
+/* Hotkeys prefs */
+"Hotkey" = "キー操作";
+
+/* Hotkeys prefs */
+"Mouse" = "マウス";
+
+/* Hotkeys prefs */
+"Instant exposé" = "インスタント Exposé";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Overview グリッドでスペースバーを押すと Exposé を切り替えられます。";
+
+/* Hotkeys prefs */
+"Choose button" = "ボタンを選択";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "マウスボタン 3";
+
+/* Hotkeys prefs */
+"4th button" = "マウスボタン 4";
+
+/* Hotkeys prefs */
+"5th button" = "マウスボタン 5";
+
+/* General prefs */
+"Start TotalSpaces at Login" = "ログイン時に TotalSpaces を起動する";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "デスクトップ移動時に通知グラフィックを表示する";
+
+/* General prefs */
+"Hide menu bar icon" = "メニューバーのアイコンを隠す";
+
+/* General prefs */
+"Automatically check for updates" = "自動でアップデートを確認する";
+
+/* General prefs */
+"Zoom to overview grid animation (experimental)" = "Overview グリッドを表示するときにアニメーションする（試験中）";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Overview グリッドの背景";
+
+/* General prefs */
+"Hi res" = "高解像度";
+
+/* General prefs */
+"Lo res" = "低解像度";
+
+/* General prefs */
+"None (fastest)" = "なし（高速）";
+
+/* General prefs */
+"Show fullscreen apps under the overview grid" = "フルスクリーン App を Overview グリッドの下に表示する";
+
+/* Circulation prefs */
+"Enable circulation" = "デスクトップを循環する";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "上下方向のみ循環する";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "右端から右へ操作すると ";
+
+/* Circulation prefs */
+"Next row" = "次の行の左端";
+
+/* Circulation prefs */
+"Same row" = "同じ行の左端";
+
+/* App binding prefs */
+"Application" = "アプリケーション";
+
+/* App binding prefs */
+"Desktop" = "デスクトップ";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "特定の App を特定のデスクトップに表示するよう設定できます。";
+
+/* Transitions prefs */
+"Use transitions" = "トランジションを使う";
+
+/* Transitions prefs */
+"Animation" = "アニメーション";
+
+/* Transitions prefs */
+"Slide" = "スライド（Slide）";
+
+/* Transitions prefs */
+"Cube" = "キューブ（Cube）";
+
+/* Transitions prefs */
+"Swap" = "スワップ（Swap）";
+
+/* Transitions prefs */
+"Flip" = "フリップ（Flip）";
+
+/* Transitions prefs */
+"Reveal" = "リビール（Reveal）";
+
+/* Transitions prefs */
+"Fade" = "フェード（Fade）";
+
+/* Transitions prefs */
+"Speed" = "速さ";
+
+/* Transitions prefs */
+"Slow" = "遅い";
+
+/* Transitions prefs */
+"Fast" = "速い";
+
+/* Transitions prefs */
+"Swipe to change space" = "スワイプで操作スペースを変更 ";
+
+/* Transitions prefs */
+"3 fingers" = "3 本指";
+
+/* Transitions prefs */
+"4 fingers" = "4 本指";
+
+/* Transitions prefs */
+"5 fingers" = "5 本指";
+
+/* Transitions prefs */
+"Invert swipe direction" = "スワイプの方向を反転する";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "画面端にマウスを移動したときに操作スペースを変更する";
+
+/* Transitions prefs */
+"With key" = "修飾キー";
+
+/* Layout prefs */
+"Grid" = "グリッド";
+
+/* Layout prefs */
+"Full screen apps" = "フルスクリーン App";
+
+/* Layout prefs - naming popup */
+"Name" = "名前";
+
+/* Layout prefs - naming popup */
+"Done" = "決定";
+
+/* Layout prefs - hint first line */
+"Control-click to set" = "Control キーを押下しながらクリックで";
+
+/* Layout prefs - hint second line */
+"space name & hotkey" = "名前とキー操作を変更できます。";
+
+/* Layout prefs */
+"For this grid" = "このグリッド設定には";
+
+/* Layout prefs */
+"Navigate right to additional full screen apps" = "右側にフルスクリーン App を配置する";
+
+/* Layout prefs */
+"Navigate left to dashboard" = "左側に Dashboard を配置する";
+
+/* Layout prefs */
+"(Show dashboard as a space must be enabled in Mission Control preferences)" = "（Mission Control の設定で Dashboard を操作スペースとして表示するよう設定してください）";
+
+/* Hotcorners prefs */
+"Show overview grid" = "Overview グリッドを表示";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Exposé 状態を切り替え（グリッド表示時）";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Overview グリッドを Exposé 状態で表示";
+
+/* Advanced prefs */
+"Full screen apps in the grid" = "フルスクリーン App をグリッド内に配置する";
+
+/* Advanced prefs - explaination line 1 */
+"This setting allows you to use the highest numbered positions in" = "この設定をするとグリッドの最後尾から順に";
+
+/* Advanced prefs - explanation line 2 */
+"your grid for full screen apps" = "フルスクリーン App を割り当てられます。";
+
+/* Advanced prefs */
+"Make the grid from" = "グリッド構成";
+
+/* Advanced prefs */
+"desktops, and" = "個のデスクトップ";
+
+/* Advanced prefs */
+"full screen apps" = "個のフルスクリーン App";
+
+
