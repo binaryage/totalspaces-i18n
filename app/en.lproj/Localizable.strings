@@ -169,16 +169,13 @@
 "You need %ld desktops##{other}" = "You need %ld desktops";
 
 /* Hotkeys prefs */
-"Left" = "Left";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Right";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Up";
-
-/* Hotkeys prefs */
-"Down" = "Down";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Hotkey";
@@ -188,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Instant exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Use the space bar to toggle exposé when using the overview grid";
@@ -312,35 +315,24 @@
 /* Transitions prefs */
 "With key" = "With key";
 
-/* Layout prefs */
-"Grid" = "Grid";
-
-/* Layout prefs */
-"Full screen apps" = "Full screen apps";
-
 /* Layout prefs - naming popup */
 "Name" = "Name";
 
 /* Layout prefs - naming popup */
 "Done" = "Done";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Control-click to set";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "space name & hotkey";
-
 /* Layout prefs */
 "For this grid" = "For this grid";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Navigate right to additional full screen apps";
+"Rows" = "Rows";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Navigate left to dashboard";
+"Columns" = "Columns";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Show dashboard as a space must be enabled in Mission Control preferences)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Show overview grid";
