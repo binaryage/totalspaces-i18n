@@ -132,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Remove desktops";
 
-/* unshow status bar dialog */
-"Status item removal" = "Status item removal";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Menu bar item removal";
 
 /* hotkeys */
 "That key combination could not be assigned" = "That key combination could not be assigned";
@@ -144,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "The system rejected the assignment even though we tried to force it";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "To see the status bar item again, you can double-click the application in your Applications folder";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "To see the menu bar item again, you can double-click the application in your Applications folder";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Transitions";
@@ -220,22 +220,28 @@
 "Automatically check for updates" = "Automatically check for updates";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Zoom to overview grid animation (experimental)";
+"Zoom to overview grid animation" = "Zoom to overview grid animation";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Backgrounds in the overview grid";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Hi res";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Lo res";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "None (fastest)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "Show fullscreen apps under the overview grid";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Enable circulation";
@@ -274,9 +280,6 @@
 "Cube" = "Cube";
 
 /* Transitions prefs */
-"Swap" = "Swap";
-
-/* Transitions prefs */
 "Flip" = "Flip";
 
 /* Transitions prefs */
@@ -284,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Fade";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Speed";
@@ -325,10 +331,10 @@
 "For this grid" = "For this grid";
 
 /* Layout prefs */
-"Rows" = "Rows";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Columns" = "Columns";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
 "Select display" = "Select display";
@@ -342,23 +348,5 @@
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Overview grid with exposé";
-
-/* Advanced prefs */
-"Full screen apps in the grid" = "Full screen apps in the grid";
-
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "This setting allows you to use the highest numbered positions in";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "your grid for full screen apps";
-
-/* Advanced prefs */
-"Make the grid from" = "Make the grid from";
-
-/* Advanced prefs */
-"desktops, and" = "desktops, and";
-
-/* Advanced prefs */
-"full screen apps" = "full screen apps";
 
 

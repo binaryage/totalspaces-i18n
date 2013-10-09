@@ -46,7 +46,7 @@
 /* Registration dialog */
 "Trial period finished - Please buy TotalSpaces" = "Testphase abgelaufen, bitte erwerben Sie TotalSpaces";
 
-/* Registration dialog */ 
+/* Registration dialog /*
 "Trial version" = "Testversion";
 
 /* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
@@ -132,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Schreibtisch entfernen";
 
-/* unshow status bar dialog */
-"Status item removal" = "Status Eintrag entfernt";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Status Eintrag entfernt";
 
 /* hotkeys */
 "That key combination could not be assigned" = "Diese Tasten-Kombination kann nicht verwendet werden";
@@ -144,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "Das System lehnt diese Zuordnung ab, selbst als wir es versucht haben";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "Um den Status Eintrag erneut zu sehen, können Sie die Anwendung mit Doppelclick im Anwendungs-Ordner öffnen";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Um den Status Eintrag erneut zu sehen, können Sie die Anwendung mit Doppelclick im Anwendungs-Ordner öffnen";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Übergänge";
@@ -169,16 +169,13 @@
 "You need %ld desktops##{other}" = "Sie benötigen %ld Schreibtische";
 
 /* Hotkeys prefs */
-"Left" = "Nach links";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Nach rechts";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Nach oben";
-
-/* Hotkeys prefs */
-"Down" = "Nach unten";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Tastenkürzel";
@@ -188,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Dauerhaftes Exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Benutzen Sie die Leertaste um das Exposé im Übersichtsraster zu aktivieren";
@@ -217,22 +220,28 @@
 "Automatically check for updates" = "Automatisch nach Aktualisierungen suchen";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "In das Übersichtsraster reinzoomen-Animation (experimentell)";
+"Zoom to overview grid animation" = "In das Übersichtsraster reinzoomen-Animation";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Schreibtischbild im Übersichtsraster";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Hohe Auflösung";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Niedrige Auflösung";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "Kein (schnell)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "Vollbild-Apps unter dem Übersichtsraster anzeigen";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Zirkulation aktivieren";
@@ -271,9 +280,6 @@
 "Cube" = "Würfel";
 
 /* Transitions prefs */
-"Swap" = "Überdecken";
-
-/* Transitions prefs */
 "Flip" = "Umdrehen";
 
 /* Transitions prefs */
@@ -281,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Einblenden";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Geschwindigkeit";
@@ -312,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "Mit Taste";
 
-/* Layout prefs */
-"Grid" = "Raster";
-
-/* Layout prefs */
-"Full screen apps" = "Vollbild-Anwendungen";
-
 /* Layout prefs - naming popup */
 "Name" = "Name";
 
 /* Layout prefs - naming popup */
 "Done" = "Fertig";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Ctrl+Klick zur Änderung des";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "Space-Namen und Tasturkürzel";
-
 /* Layout prefs */
 "For this grid" = "Für dieses Raster";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Navigation nach Rechts für Vollbild-Apps";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Nach links navigieren um zum Dashboard zu gelangen";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Option: 'Dashboard als Space anzeigen' in den Systemeinstellungen unter Mission Control aktivieren)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Übersichtsraster anzeigen";
@@ -351,20 +349,4 @@
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Übersichtsraster mit Exposé";
 
-/* Advanced prefs */
-"Full screen apps in the grid" = "Vollbild-Anwendungen im Übersichtsraster anzeigen";
 
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "Diese Einstellung erlabt es Ihnen die höchste Position zu verwenden in";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "Ihr Übersichtsraster für Vollbild-Apps";
-
-/* Advanced prefs */
-"Make the grid from" = "Übersichtsraster erstellen von";
-
-/* Advanced prefs */
-"desktops, and" = "Schreibtische, und";
-
-/* Advanced prefs */
-"full screen apps" = "Vollbild-Apps";

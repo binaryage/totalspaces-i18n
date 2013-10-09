@@ -53,6 +53,9 @@
 "%d days left##{other}" = "%d gün kaldı";
 
 /* Registration dialog */
+"%d days left##{one}" = "%d days left##{one}";
+
+/* Registration dialog */
 "Buy now!" = "Şimdi satın alın!";
 
 /* non grid desktop name for menu */
@@ -129,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Masaüstlerini kaldır";
 
-/* unshow status bar dialog */
-"Status item removal" = "Durum çubuğunu kaldır";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Durum çubuğunu kaldır";
 
 /* hotkeys */
 "That key combination could not be assigned" = "Seçtiğiniz tuş kombinasyonu atanamadı";
@@ -141,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "Zorlamamıza rağmen sistem atamayı reddetti";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "Durum çubuğunu tekrar görmek için, Uygulamalar klasöründeki uygulamaya çift tıklayabilirsiniz";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Durum çubuğunu tekrar görmek için, Uygulamalar klasöründeki uygulamaya çift tıklayabilirsiniz";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Geçişler";
@@ -166,16 +169,13 @@
 "You need %ld desktops##{other}" = "%ld masaüstüne ihtiyacınız var";
 
 /* Hotkeys prefs */
-"Left" = "Sol";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Sağ";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Yukarı";
-
-/* Hotkeys prefs */
-"Down" = "Aşağı";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Kısayol";
@@ -185,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Anında exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Özet ızgaradayken boşluk çubuğu ile exposé'yi aç/kapa";
@@ -214,22 +220,28 @@
 "Automatically check for updates" = "Güncellemeleri otomatik kontrol et";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Özet ızgarasına hareketli zum yap (deneysel)";
+"Zoom to overview grid animation" = "Zoom to overview grid animation";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Özet ızgarasında arkaplanlar";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Yüksek çöz.";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Düşük çöz.";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "Hiçbiri (en hızlı)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "Özet ızgarada tam ekran uygulamaları göster";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Dolaşımı etkin kıl";
@@ -268,9 +280,6 @@
 "Cube" = "Küp";
 
 /* Transitions prefs */
-"Swap" = "Değiş-tokuş";
-
-/* Transitions prefs */
 "Flip" = "Dön";
 
 /* Transitions prefs */
@@ -278,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Sol";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Hız";
@@ -309,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "Tuş ile";
 
-/* Layout prefs */
-"Grid" = "Izgaralar";
-
-/* Layout prefs */
-"Full screen apps" = "Tam ekran uygulamalar";
-
 /* Layout prefs - naming popup */
 "Name" = "İsim";
 
 /* Layout prefs - naming popup */
 "Done" = "Tamam";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Ayarlamak için Control-tık";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "alan adı & kısayolu";
-
 /* Layout prefs */
 "For this grid" = "Bu ızgara için";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Diğer tam ekran uygulamalar için sağa git";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Dashboard için sola git";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Mission Control tercihlerinde dashboard'u alan olarak göster etkin olmalı)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Özet ızgarayı göster";
@@ -347,23 +348,5 @@
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Overview grid with exposé";
-
-/* Advanced prefs */
-"Full screen apps in the grid" = "Izgarada tam ekran uygulamalar";
-
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "Bu ayar ızgaranızdaki tam ekran uygulamalar için en yüksek";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "sayılı yerleri kullanmanızı sağlar";
-
-/* Advanced prefs */
-"Make the grid from" = "Izgaranızı";
-
-/* Advanced prefs */
-"desktops, and" = "masaüstü ve";
-
-/* Advanced prefs */
-"full screen apps" = "tam ekran uygulamadan oluşturun";
 
 

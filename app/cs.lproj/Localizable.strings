@@ -53,9 +53,6 @@
 "%d days left##{other}" = "zbývá %d dnů";
 
 /* Registration dialog */
-"%d days left##{few}" = "zbývají %d dny";
-
-/* Registration dialog */
 "%d days left##{one}" = "zbývá %d den";
 
 /* Registration dialog */
@@ -135,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Odstranit plochy";
 
-/* unshow status bar dialog */
-"Status item removal" = "Odstranění status ikony";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Odstranění status ikony";
 
 /* hotkeys */
 "That key combination could not be assigned" = "Tato klávesová zkratka nemůže být přiřazena";
@@ -147,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "Systém odmítl klávesovou zkratku přiřadit";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "Pro zobrazení status ikony můžete dvojkliknout na TotalSpaces.app ve složce Applications";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Pro zobrazení status ikony můžete dvojkliknout na TotalSpaces.app ve složce Applications";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Přechody";
@@ -162,32 +159,23 @@
 /* layout desktop status label single */
 "You have %ld desktops##{one}" = "Máte %ld plochu";
 
-/* layout desktop status label few */
-"You have %ld desktops##{few}" = "Máte %ld ploch";
-
 /* layout desktop status label plural */
 "You have %ld desktops##{other}" = "Máte %ld ploch";
 
 /* layout desktop requirements label single */
 "You need %ld desktops##{one}" = "Potřebujete %ld plochu";
 
-/* layout desktop requirements label few */
-"You need %ld desktops##{few}" = "Potřebujete %ld ploch";
-
 /* layout desktop requirements label plural */
 "You need %ld desktops##{other}" = "Potřebujete %ld ploch";
 
 /* Hotkeys prefs */
-"Left" = "Vlevo";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Vpravo";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Nahoře";
-
-/* Hotkeys prefs */
-"Down" = "Dole";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Klávesa";
@@ -197,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Instantní exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Používat mezerník pro přechod na exposé při otevřené mřížce s přehledem";
@@ -226,22 +220,28 @@
 "Automatically check for updates" = "Automaticky provádět kontrolu aktualizací";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Animovat přechod na mřížku s přehledem (experimentální)";
+"Zoom to overview grid animation" = "Animovat přechod na mřížku s přehledem";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Zobrazovat pozadí na plochách v mřižce s přehledem";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Vysoké rozlišení";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Nízké rozlišení";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "Žádné (nejrychlejší)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "V mřížce s přehledem zobrazovat i aplikace v režimu celé obrazovky";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Zapnout kruhové napojení";
@@ -280,9 +280,6 @@
 "Cube" = "Krychle";
 
 /* Transitions prefs */
-"Swap" = "Výměna";
-
-/* Transitions prefs */
 "Flip" = "Přetočení";
 
 /* Transitions prefs */
@@ -290,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Objevení";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Rychlost";
@@ -321,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "Klávesou";
 
-/* Layout prefs */
-"Grid" = "Mřížka";
-
-/* Layout prefs */
-"Full screen apps" = "Aplikace v režimu celé obrazovky";
-
 /* Layout prefs - naming popup */
 "Name" = "Jméno";
 
 /* Layout prefs - naming popup */
 "Done" = "Hotovo";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Nastavíte podržením CTRL a klikem";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "pojmenování plochy a klávesová zkratka";
-
 /* Layout prefs */
 "For this grid" = "Pro tuto mřižku";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Navigujte doprava pro přídavné aplikace v režimu celé obrazovky";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Navigujte doleva pro přechod na nástěnku";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Zobrazení nástěnky jako samostatné plochy musí být zapnuto v předvolbách Mission Control)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Zobrazit mřížku s přehledem";
@@ -359,23 +348,5 @@
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Mřížka s přehledem s exposé";
-
-/* Advanced prefs */
-"Full screen apps in the grid" = "Mřížka a aplikace v režimu celé obrazovky";
-
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "Toto nastavení umožňuje použít nejvyšší pozici";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "v mřížce pro aplikace v režimu celé obrazovky";
-
-/* Advanced prefs */
-"Make the grid from" = "Vytvořit mřížku z";
-
-/* Advanced prefs */
-"desktops, and" = "ploch, a";
-
-/* Advanced prefs */
-"full screen apps" = "aplikací v režimu celé obrazovky";
 
 

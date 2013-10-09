@@ -132,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "デスクトップを削除";
 
-/* unshow status bar dialog */
-"Status item removal" = "メニューバーから削除";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "メニューバーから削除";
 
 /* hotkeys */
 "That key combination could not be assigned" = "このキー組み合わせは使用できません。";
@@ -144,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "システムによりホットキーの登録が拒否されました。";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces をダブルクリックしてください。";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces をダブルクリックしてください。";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "トランジション";
@@ -169,16 +169,13 @@
 "You need %ld desktops##{other}" = "%ld 個のデスクトップが必要です";
 
 /* Hotkeys prefs */
-"Left" = "左";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "右";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "上";
-
-/* Hotkeys prefs */
-"Down" = "下";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "キー操作";
@@ -188,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "インスタント Exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Overview グリッドでスペースバーを押すと Exposé を切り替えられます。";
@@ -217,22 +220,28 @@
 "Automatically check for updates" = "自動でアップデートを確認する";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Overview グリッドを表示するときにアニメーションする（試験中）";
+"Zoom to overview grid animation" = "Overview グリッドを表示するときにアニメーションする";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Overview グリッドの背景";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "高解像度";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "低解像度";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "なし（高速）";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "フルスクリーン App を Overview グリッドの下に表示する";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "デスクトップを循環する";
@@ -271,9 +280,6 @@
 "Cube" = "キューブ（Cube）";
 
 /* Transitions prefs */
-"Swap" = "スワップ（Swap）";
-
-/* Transitions prefs */
 "Flip" = "フリップ（Flip）";
 
 /* Transitions prefs */
@@ -281,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "フェード（Fade）";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "速さ";
@@ -312,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "修飾キー";
 
-/* Layout prefs */
-"Grid" = "グリッド";
-
-/* Layout prefs */
-"Full screen apps" = "フルスクリーン App";
-
 /* Layout prefs - naming popup */
 "Name" = "名前";
 
 /* Layout prefs - naming popup */
 "Done" = "決定";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Control キーを押下しながらクリックで";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "名前とキー操作を変更できます。";
-
 /* Layout prefs */
 "For this grid" = "このグリッド設定には";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "右側にフルスクリーン App を配置する";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "左側に Dashboard を配置する";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "（Mission Control の設定で Dashboard を操作スペースとして表示するよう設定してください）";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Overview グリッドを表示";
@@ -350,23 +348,5 @@
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Overview グリッドを Exposé 状態で表示";
-
-/* Advanced prefs */
-"Full screen apps in the grid" = "フルスクリーン App をグリッド内に配置する";
-
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "この設定をするとグリッドの最後尾から順に";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "フルスクリーン App を割り当てられます。";
-
-/* Advanced prefs */
-"Make the grid from" = "グリッド構成";
-
-/* Advanced prefs */
-"desktops, and" = "個のデスクトップ";
-
-/* Advanced prefs */
-"full screen apps" = "個のフルスクリーン App";
 
 

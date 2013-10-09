@@ -132,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Ukloni radne površine";
 
-/* unshow status bar dialog */
-"Status item removal" = "Uklanjanje ikone u traci izbornika";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Uklanjanje ikone u traci izbornika";
 
 /* hotkeys */
 "That key combination could not be assigned" = "Ta kombinacija tipki se ne može dodijeliti";
@@ -144,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "Sustav je odbacio dodjelu, iako smo je pokušali forsirati";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "Kako biste opet vidjeli ikonu u radnoj traci, mozete napraviti dvostruki klik na aplikaciju us mapi Applications";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Kako biste opet vidjeli ikonu u radnoj traci, mozete napraviti dvostruki klik na aplikaciju us mapi Applications";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Prijelazi";
@@ -169,16 +169,13 @@
 "You need %ld desktops##{other}" = "Treba vam %ld radnih površina";
 
 /* Hotkeys prefs */
-"Left" = "Lijevo";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Desno";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Gore";
-
-/* Hotkeys prefs */
-"Down" = "Dolje";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Kratica";
@@ -188,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Trenutni exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Koristi razmaknicu za paljenje/gašenje exposé-a u pregledu mreže";
@@ -217,22 +220,28 @@
 "Automatically check for updates" = "Automatski provjeri nadogradnje";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Zoom za pregled animacije mreže (eksperimentalno)";
+"Zoom to overview grid animation" = "Zoom za pregled animacije mreže";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Pozadine u pregledu mreže";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Visoka rezolucija";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Niska rezolucija";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "Ništa (najbrže)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "Prikaž aplikacije preko cijelog ekrana u pregledu mreže";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Omogući kruženje";
@@ -271,9 +280,6 @@
 "Cube" = "Kocka";
 
 /* Transitions prefs */
-"Swap" = "Zamijena";
-
-/* Transitions prefs */
 "Flip" = "Okret";
 
 /* Transitions prefs */
@@ -281,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Izblijedi";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Brzina";
@@ -312,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "S tipkom";
 
-/* Layout prefs */
-"Grid" = "Mreža";
-
-/* Layout prefs */
-"Full screen apps" = "Aplikacije preko cijelog ekrana";
-
 /* Layout prefs - naming popup */
 "Name" = "Ime";
 
 /* Layout prefs - naming popup */
 "Done" = "Gotovo";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Control + klik za postavljanje";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "ime prostora i kratica";
-
 /* Layout prefs */
 "For this grid" = "Za ovu mrežu";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Kretanje desno do ostalih aplikacija preko cijelog ekrana";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Kretanje lijevo do dashboard-a";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Prikaži dashboard kao prostor mora biti uključeno u postavkama Mission Control-a)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Prikaži pregled mreže";
@@ -350,23 +348,5 @@
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Pregled mreže s exposé-om";
-
-/* Advanced prefs */
-"Full screen apps in the grid" = "Aplikacije preko cijelog ekrana u mreži";
-
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "Ova postavka vam omogućuje korištenje najviših brojnih pozicija u";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "vašoj mreži za aplikacije preko cijelog ekrana";
-
-/* Advanced prefs */
-"Make the grid from" = "Napravi oblik mreže";
-
-/* Advanced prefs */
-"desktops, and" = "radne površine, i";
-
-/* Advanced prefs */
-"full screen apps" = "aplikacije preko cijelog ekrana";
 
 

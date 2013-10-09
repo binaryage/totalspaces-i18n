@@ -132,8 +132,8 @@
 /* add/remove desktops button */
 "Remove desktops" = "Avlägsna skrivbord";
 
-/* unshow status bar dialog */
-"Status item removal" = "Borttagning av statuspost";
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Borttagning av statuspost";
 
 /* hotkeys */
 "That key combination could not be assigned" = "Denna tangentkombination kan inte tilldelas";
@@ -144,8 +144,8 @@
 /* hotkeys */
 "The system rejected the assignment even though we tried to force it" = "Systemet avvisade tilldelningen trots att vi insisterade";
 
-/* unshow status bar dialog */
-"To see the status bar item again, you can double-click the application in your Applications folder" = "För att kunna se statusfältposten på nytt kan du dubbelklicka ifrågavarande program i  Programmappen";
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "För att kunna se statusfältposten på nytt kan du dubbelklicka ifrågavarande program i  Programmappen";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Övergångar";
@@ -169,16 +169,13 @@
 "You need %ld desktops##{other}" = "Du behöver %ld skrivbord";
 
 /* Hotkeys prefs */
-"Left" = "Vänster";
+"Change space" = "Change space";
 
 /* Hotkeys prefs */
-"Right" = "Höger";
+"Move current window" = "Move current window";
 
 /* Hotkeys prefs */
-"Up" = "Upp";
-
-/* Hotkeys prefs */
-"Down" = "Ner";
+"Arrow keys with" = "Arrow keys with";
 
 /* Hotkeys prefs */
 "Hotkey" = "Snabbtangent";
@@ -188,6 +185,12 @@
 
 /* Hotkeys prefs */
 "Instant exposé" = "Omedelbar exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Använd mellanslagstangenten för att växla till exposé när du använder översiktsrutnätet";
@@ -217,22 +220,28 @@
 "Automatically check for updates" = "Kolla uppdateringar automatiskt";
 
 /* General prefs */
-"Zoom to overview grid animation (experimental)" = "Zooma för översikt av rutnätsanimation (experimentell)";
+"Zoom to overview grid animation" = "Zooma för översikt av rutnätsanimation";
 
 /* General prefs */
 "Desktop backgrounds in the overview grid" = "Bakgrunder i översiktsrutnätet";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Hi res" = "Högresolution";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "Lo res" = "Lågresolution";
 
-/* General prefs */
+/* General prefs grid backgrounds */
 "None (fastest)" = "Ingen (snabbast)";
 
-/* General prefs */
-"Show fullscreen apps under the overview grid" = "Visa helskärmsprogram under översiktsrutnätet";
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
 
 /* Circulation prefs */
 "Enable circulation" = "Aktivera rotation";
@@ -271,9 +280,6 @@
 "Cube" = "Kub";
 
 /* Transitions prefs */
-"Swap" = "Byt";
-
-/* Transitions prefs */
 "Flip" = "Vänd";
 
 /* Transitions prefs */
@@ -281,6 +287,9 @@
 
 /* Transitions prefs */
 "Fade" = "Tona bort";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
 
 /* Transitions prefs */
 "Speed" = "Hastighet";
@@ -312,35 +321,24 @@
 /* Transitions prefs */
 "With key" = "Med tangent";
 
-/* Layout prefs */
-"Grid" = "Rutnät";
-
-/* Layout prefs */
-"Full screen apps" = "Helskärmsprogram";
-
 /* Layout prefs - naming popup */
 "Name" = "Namn";
 
 /* Layout prefs - naming popup */
 "Done" = "Klar";
 
-/* Layout prefs - hint first line */
-"Control-click to set" = "Kontrollklicka för att aktivera";
-
-/* Layout prefs - hint second line */
-"space name & hotkey" = "namn på rum & snabbtangent";
-
 /* Layout prefs */
 "For this grid" = "För detta rutnät";
 
 /* Layout prefs */
-"Navigate right to additional full screen apps" = "Navigera åt höger för ytterligare bredbildsprogram";
+"Rows:" = "Rows:";
 
 /* Layout prefs */
-"Navigate left to dashboard" = "Navigera åt vänster till instrumentpanelen";
+"Columns:" = "Columns:";
 
 /* Layout prefs */
-"(Show dashboard as a space must be enabled in Mission Control preferences)" = "(Visa instrumentpanelen som ett rum måste aktiveras i Mission Control preferenserna)";
+"Select display" = "Select display";
+
 
 /* Hotcorners prefs */
 "Show overview grid" = "Visa översiktsrutnät";
@@ -351,20 +349,4 @@
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Översiktsrutnät med exposé";
 
-/* Advanced prefs */
-"Full screen apps in the grid" = "Helskärmsprogram i rutnätet";
 
-/* Advanced prefs - explaination line 1 */
-"This setting allows you to use the highest numbered positions in" = "Denna inställning möjliggör användning av högsta antal positioner";
-
-/* Advanced prefs - explanation line 2 */
-"your grid for full screen apps" = "ditt rutnät för helskärmsprogram";
-
-/* Advanced prefs */
-"Make the grid from" = "Gör rutnät av";
-
-/* Advanced prefs */
-"desktops, and" = "skrivbord, och";
-
-/* Advanced prefs */
-"full screen apps" = "helskärmsprogram";
