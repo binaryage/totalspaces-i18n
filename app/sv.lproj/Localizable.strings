@@ -8,7 +8,7 @@
 "Register" = "Registrera";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "Köp TotalSpaces nu";
+"Buy TotalSpaces2 Now" = "Köp TotalSpaces2 nu";
 
 /* Registration dialog */
 "Invalid license code" = "Ogiltig licenskod";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Försök på nytt.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Besök BinaryAge nätbutik för att köpa licens för TotalSpaces.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Besök BinaryAge nätbutik för att köpa licens för TotalSpaces2.";
 
 /* Registration dialog */
 "Back" = "Tillbaka";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Tack för att du registrerat!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "Denna kopia av TotalSpaces är licensierad till:";
+"This TotalSpaces2 copy is licensed to:" = "Denna kopia av TotalSpaces2 är licensierad till:";
 
 /* Registration dialog */
 "Change License" = "Ändra licens";
@@ -35,16 +35,16 @@
 "Close" = "Stäng";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "Registrera TotalSpaces";
+"TotalSpaces2 Registration" = "Registrera TotalSpaces2";
 
 /* Registration dialog */
 "Licensed to" = "Licensierad till";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "Tack för att du använder TotalSpaces!";
+"Thank you for using TotalSpaces2!" = "Tack för att du använder TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Försöksperioden har löpt ut - vänligen köp TotalSpaces";
+"Trial period finished - Please buy TotalSpaces2" = "Försöksperioden har löpt ut - vänligen köp TotalSpaces2";
 
 /* Registration dialog /*
 "Trial version" = "Trial version";
@@ -110,9 +110,11 @@
 "Layout" = "Layout";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Översiktsrutnät";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "5:e knappen";
 
+/* Hotkeys prefs popover */
+"Left" = "Vänster";
+
+/* Hotkeys prefs popover */
+"Right" = "Höger";
+
+/* Hotkeys prefs popover */
+"Up" = "Upp";
+
+/* Hotkeys prefs popover */
+"Down" = "Ner";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "Starta TotalSpaces vid inloggning";
+"Start TotalSpaces2 at Login" = "Starta TotalSpaces2 vid inloggning";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Visa anmälnigsgsgrafik vid byte av skrivbord ";

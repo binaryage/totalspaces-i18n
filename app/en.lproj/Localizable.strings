@@ -8,7 +8,7 @@
 "Register" = "Register";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "Buy TotalSpaces Now";
+"Buy TotalSpaces2 Now" = "Buy TotalSpaces2 Now";
 
 /* Registration dialog */
 "Invalid license code" = "Invalid license code";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Please go back and try again.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "To purchase a license for TotalSpaces, please visit the BinaryAge web store.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "To purchase a license for TotalSpaces2, please visit the BinaryAge web store.";
 
 /* Registration dialog */
 "Back" = "Back";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Thanks for registering!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "This TotalSpaces copy is licensed to:";
+"This TotalSpaces2 copy is licensed to:" = "This TotalSpaces2 copy is licensed to:";
 
 /* Registration dialog */
 "Change License" = "Change License";
@@ -35,16 +35,16 @@
 "Close" = "Close";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "TotalSpaces Registration";
+"TotalSpaces2 Registration" = "TotalSpaces2 Registration";
 
 /* Registration dialog */
 "Licensed to" = "Licensed to";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "Thank you for using TotalSpaces!";
+"Thank you for using TotalSpaces2!" = "Thank you for using TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Trial period finished - Please buy TotalSpaces";
+"Trial period finished - Please buy TotalSpaces2" = "Trial period finished - Please buy TotalSpaces2";
 
 /* Registration dialog /*
 "Trial version" = "Trial version";
@@ -110,9 +110,11 @@
 "Layout" = "Layout";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Overview grid";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "5th button";
 
+/* Hotkeys prefs popover */
+"Left" = "Left";
+
+/* Hotkeys prefs popover */
+"Right" = "Right";
+
+/* Hotkeys prefs popover */
+"Up" = "Up";
+
+/* Hotkeys prefs popover */
+"Down" = "Down";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "Start TotalSpaces at Login";
+"Start TotalSpaces2 at Login" = "Start TotalSpaces2 at Login";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Show notification graphic on desktop change";

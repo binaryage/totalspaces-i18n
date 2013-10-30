@@ -8,7 +8,7 @@
 "Register" = "Registrieren";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "TotalSpaces jetzt kaufen";
+"Buy TotalSpaces2 Now" = "TotalSpaces2 jetzt kaufen";
 
 /* Registration dialog */
 "Invalid license code" = "Ungültiger Registrierungsschlüssel";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Bitte gehen Sie zurück und versuchen es erneut.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Besuchen Sie bitte den BinaryAge-Webstore für den Kauf einer Lizenz.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Besuchen Sie bitte den BinaryAge-Webstore für den Kauf einer Lizenz.";
 
 /* Registration dialog */
 "Back" = "Zurück";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Vielen Dank für Ihre Registrierung!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "TotalSpaces-Kopie lizenziert für:";
+"This TotalSpaces2 copy is licensed to:" = "TotalSpaces2-Kopie lizenziert für:";
 
 /* Registration dialog */
 "Change License" = "Lizenz ändern";
@@ -35,16 +35,16 @@
 "Close" = "Schliessen";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "TotalSpaces Registrierung";
+"TotalSpaces2 Registration" = "TotalSpaces2 Registrierung";
 
 /* Registration dialog */
 "Licensed to" = "Lizenziert für";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "Vielen Dank für die Nutzung von TotalSpaces!";
+"Thank you for using TotalSpaces2!" = "Vielen Dank für die Nutzung von TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Testphase abgelaufen, bitte erwerben Sie TotalSpaces";
+"Trial period finished - Please buy TotalSpaces2" = "Testphase abgelaufen, bitte erwerben Sie TotalSpaces2";
 
 /* Registration dialog /*
 "Trial version" = "Testversion";
@@ -110,9 +110,11 @@
 "Layout" = "Anordnung";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Übersichtsraster";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "Fünfte Taste";
 
+/* Hotkeys prefs popover */
+"Left" = "Nach links";
+
+/* Hotkeys prefs popover */
+"Right" = "Nach rechts";
+
+/* Hotkeys prefs popover */
+"Up" = "Nach oben";
+
+/* Hotkeys prefs popover */
+"Down" = "Nach unten";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "TotalSpaces beim Anmelden starten";
+"Start TotalSpaces2 at Login" = "TotalSpaces2 beim Anmelden starten";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Benachrichtigung beim Wechseln von Schreibtischen anzeigen";

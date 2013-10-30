@@ -8,7 +8,7 @@
 "Register" = "Kayıt";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "TotalSpaces'i şimdi satın alın";
+"Buy TotalSpaces2 Now" = "TotalSpaces2'i şimdi satın alın";
 
 /* Registration dialog */
 "Invalid license code" = "Geçersiz lisans kodu";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Lütfen geriye dönüp tekrar deneyin.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "TotalSpaces lisansı satın almak için lütfen BinaryAge web sitesi ziyaret edin.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "TotalSpaces2 lisansı satın almak için lütfen BinaryAge web sitesi ziyaret edin.";
 
 /* Registration dialog */
 "Back" = "Geri";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Kaydolduğunuz için teşekkürler!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "Bu TotalSpaces kopyasının lisans sahibi:";
+"This TotalSpaces2 copy is licensed to:" = "Bu TotalSpaces2 kopyasının lisans sahibi:";
 
 /* Registration dialog */
 "Change License" = "Lisansı değiştir";
@@ -35,16 +35,16 @@
 "Close" = "Kapat";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "TotalSpaces Kayıt";
+"TotalSpaces2 Registration" = "TotalSpaces2 Kayıt";
 
 /* Registration dialog */
 "Licensed to" = "Lisans sahibi";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "TotalSpaces'i kullandığınız için teşekkürler!";
+"Thank you for using TotalSpaces2!" = "TotalSpaces2'i kullandığınız için teşekkürler!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Deneme süresi sona erdi - Lütfen TotalSpaces'i satın alın";
+"Trial period finished - Please buy TotalSpaces2" = "Deneme süresi sona erdi - Lütfen TotalSpaces2'i satın alın";
 
 /* Registration dialog /*
 "Trial version" = "Trial version";
@@ -110,9 +110,11 @@
 "Layout" = "Dizilim";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "Tamam";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Özet ızgarası";
@@ -127,7 +129,7 @@
 "Preferences" = "Tercihler";
 
 /* No comment provided by engineer. */
-"Quit" = "TotalSpaces'den çık";
+"Quit" = "TotalSpaces2'den çık";
 
 /* add/remove desktops button */
 "Remove desktops" = "Masaüstlerini kaldır";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "Beşinci buton";
 
+/* Hotkeys prefs popover */
+"Left" = "Sol";
+
+/* Hotkeys prefs popover */
+"Right" = "Sağ";
+
+/* Hotkeys prefs popover */
+"Up" = "Yukarı";
+
+/* Hotkeys prefs popover */
+"Down" = "Aşağı";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "TotalSpaces'i oturum açıldığında aç";
+"Start TotalSpaces2 at Login" = "TotalSpaces2'i oturum açıldığında aç";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Masaüstü değişikliğinde bilgilendirme ekranını göster";

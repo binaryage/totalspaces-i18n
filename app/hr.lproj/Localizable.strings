@@ -8,7 +8,7 @@
 "Register" = "Registriraj";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "Kupi TotalSpaces Sada";
+"Buy TotalSpaces2 Now" = "Kupi TotalSpaces2 Sada";
 
 /* Registration dialog */
 "Invalid license code" = "Neispravna licenca";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Molimo, vratite se natrag i pokušajte opet.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Za kupnju licence za TotalSpaces, molimo Vas posjetite BinaryAge web trgovinu.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Za kupnju licence za TotalSpaces2, molimo Vas posjetite BinaryAge web trgovinu.";
 
 /* Registration dialog */
 "Back" = "Natrag";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Hvala na registraciji!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "Ova kopija TotalSpaces-a glasi na:";
+"This TotalSpaces2 copy is licensed to:" = "Ova kopija TotalSpaces2-a glasi na:";
 
 /* Registration dialog */
 "Change License" = "Izmijeni Licencu";
@@ -35,16 +35,16 @@
 "Close" = "Zatvori";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "TotalSpaces Registracija";
+"TotalSpaces2 Registration" = "TotalSpaces2 Registracija";
 
 /* Registration dialog */
 "Licensed to" = "Licencirano za";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "Hvala na korištenju TotalSpaces-a!";
+"Thank you for using TotalSpaces2!" = "Hvala na korištenju TotalSpaces2-a!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Probni rok je istekao - molimo kupite TotalSpaces";
+"Trial period finished - Please buy TotalSpaces2" = "Probni rok je istekao - molimo kupite TotalSpaces2";
 
 /* Registration dialog /*
 "Trial version" = "Probna verzija";
@@ -110,9 +110,11 @@
 "Layout" = "Raspored";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "U redu";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Pregled mreže";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "5. tipka";
 
+/* Hotkeys prefs popover */
+"Left" = "Lijevo";
+
+/* Hotkeys prefs popover */
+"Right" = "Desno";
+
+/* Hotkeys prefs popover */
+"Up" = "Gore";
+
+/* Hotkeys prefs popover */
+"Down" = "Dolje";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "Pokreni TotalSpaces kod Prijave";
+"Start TotalSpaces2 at Login" = "Pokreni TotalSpaces2 kod Prijave";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Prikaži vizualnu obavijest kod promjene radne površine";

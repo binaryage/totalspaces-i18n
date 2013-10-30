@@ -8,7 +8,7 @@
 "Register" = "Registrovat";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "Koupit TotalSpaces";
+"Buy TotalSpaces2 Now" = "Koupit TotalSpaces2";
 
 /* Registration dialog */
 "Invalid license code" = "Neplatný licenční klíč";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "Prosím jděte zpět a zkuste to znovu.";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "Pro zakoupení licence na TotalSpaces prosím navštivte webový obchod BinaryAge.";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Pro zakoupení licence na TotalSpaces2 prosím navštivte webový obchod BinaryAge.";
 
 /* Registration dialog */
 "Back" = "Zpět";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "Díky za registraci!";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "Tato kopie TotalSpaces je licencována:";
+"This TotalSpaces2 copy is licensed to:" = "Tato kopie TotalSpaces2 je licencována:";
 
 /* Registration dialog */
 "Change License" = "Změnit licenci";
@@ -35,16 +35,16 @@
 "Close" = "Zavřít";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "Registrace TotalSpaces";
+"TotalSpaces2 Registration" = "Registrace TotalSpaces2";
 
 /* Registration dialog */
 "Licensed to" = "Licencováno:";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "Děkujeme, že používáte TotalSpaces!";
+"Thank you for using TotalSpaces2!" = "Děkujeme, že používáte TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "Zkušební doba vypršela - prosím zakupte si TotalSpaces";
+"Trial period finished - Please buy TotalSpaces2" = "Zkušební doba vypršela - prosím zakupte si TotalSpaces2";
 
 /* Registration dialog /*
 "Trial version" = "Trial version";
@@ -110,9 +110,11 @@
 "Layout" = "Rozmístění";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Mřížka s přehledem";
@@ -145,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "Systém odmítl klávesovou zkratku přiřadit";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "Pro zobrazení status ikony můžete dvojkliknout na TotalSpaces.app ve složce Applications";
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Pro zobrazení status ikony můžete dvojkliknout na TotalSpaces2.app ve složce Applications";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Přechody";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "páte tlačítko";
 
+/* Hotkeys prefs popover */
+"Left" = "Vlevo";
+
+/* Hotkeys prefs popover */
+"Right" = "Vpravo";
+
+/* Hotkeys prefs popover */
+"Up" = "Nahoře";
+
+/* Hotkeys prefs popover */
+"Down" = "Dole";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "Spouštět TotalSpaces po přihlášení";
+"Start TotalSpaces2 at Login" = "Spouštět TotalSpaces2 po přihlášení";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "Zobrazovat lokaci při změně plochy";

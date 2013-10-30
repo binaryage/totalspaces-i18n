@@ -8,7 +8,7 @@
 "Register" = "登録";
 
 /* Registration dialog */
-"Buy TotalSpaces Now" = "TotalSpaces を購入";
+"Buy TotalSpaces2 Now" = "TotalSpaces2 を購入";
 
 /* Registration dialog */
 "Invalid license code" = "無効なライセンスコード";
@@ -17,7 +17,7 @@
 "Please go back and try again." = "もう一度やり直してください。";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces, please visit BinaryAge web store." = "TotalSpaces のライセンスを購入するには、BinaryAge のオンラインストアをご利用ください。";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "TotalSpaces2 のライセンスを購入するには、BinaryAge のオンラインストアをご利用ください。";
 
 /* Registration dialog */
 "Back" = "戻る";
@@ -26,7 +26,7 @@
 "Thanks for registering!" = "登録ありがとうございます！";
 
 /* Registration dialog */
-"This TotalSpaces copy is licensed to:" = "登録者名：";
+"This TotalSpaces2 copy is licensed to:" = "登録者名：";
 
 /* Registration dialog */
 "Change License" = "ライセンスを変更する";
@@ -35,16 +35,16 @@
 "Close" = "閉じる";
 
 /* Registration dialog */
-"TotalSpaces Registration" = "TotalSpaces ユーザ登録";
+"TotalSpaces2 Registration" = "TotalSpaces2 ユーザ登録";
 
 /* Registration dialog */
 "Licensed to" = "登録者名：";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces!" = "ご利用ありがとうございます！";
+"Thank you for using TotalSpaces2!" = "ご利用ありがとうございます！";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces" = "試用期間が終わりました。TotalSpaces をご購入ください";
+"Trial period finished - Please buy TotalSpaces2" = "試用期間が終わりました。TotalSpaces2 をご購入ください";
 
 /* Registration dialog /*
 "Trial version" = "試用版";
@@ -74,10 +74,10 @@
 "3 finger swiping" = "3 本指のスワイプ";
 
 /* No comment provided by engineer. */
-"About" = "TotalSpaces について";
+"About" = "TotalSpaces2 について";
 
 /* No comment provided by engineer. */
-"About (Unregistered)" = "TotalSpaces について（未登録）";
+"About (Unregistered)" = "TotalSpaces2 について（未登録）";
 
 /* add/remove desktops button */
 "Add desktops" = "デスクトップを追加";
@@ -110,9 +110,11 @@
 "Layout" = "レイアウト";
 
 /* 3 finger swipe dialog
-   hotkey already in use dialog
    hotkey cannot be assigned dialog */
 "OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Overview グリッド";
@@ -127,7 +129,7 @@
 "Preferences" = "環境設定";
 
 /* No comment provided by engineer. */
-"Quit" = "TotalSpaces を終了";
+"Quit" = "TotalSpaces2 を終了";
 
 /* add/remove desktops button */
 "Remove desktops" = "デスクトップを削除";
@@ -145,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "システムによりホットキーの登録が拒否されました。";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces をダブルクリックしてください。";
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces2 をダブルクリックしてください。";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "トランジション";
@@ -207,8 +209,26 @@
 /* Hotkeys prefs */
 "5th button" = "マウスボタン 5";
 
+/* Hotkeys prefs popover */
+"Left" = "左";
+
+/* Hotkeys prefs popover */
+"Right" = "右";
+
+/* Hotkeys prefs popover */
+"Up" = "上";
+
+/* Hotkeys prefs popover */
+"Down" = "下";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
 /* General prefs */
-"Start TotalSpaces at Login" = "ログイン時に TotalSpaces を起動する";
+"Start TotalSpaces2 at Login" = "ログイン時に TotalSpaces2 を起動する";
 
 /* General prefs */
 "Show notification graphic on desktop change" = "デスクトップ移動時に通知グラフィックを表示する";
